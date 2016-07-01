@@ -1,4 +1,4 @@
-ud120-projects
+ud120-projects-python3
 ==============
 
-Starter project code for students taking Udacity ud120
+Python3 port for Udacity ud120
